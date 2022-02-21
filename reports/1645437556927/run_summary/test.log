@@ -1,0 +1,2 @@
+[2022-02-21 12:59:31] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-02-21 12:59:31] [IMessager.java] [1] [INFO] RESULT #1: TEST [carina-phones-test - checkTest] FAIL [screenshots=file:///Users/apetrov/Documents/carina-phones-test/./reports/1645437556927/5fbf0073-7a35-4238-a265-5a065fdade64/report.html | log=file:///Users/apetrov/Documents/carina-phones-test/./reports/1645437556927/5fbf0073-7a35-4238-a265-5a065fdade64/test.log]
