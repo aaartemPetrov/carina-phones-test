@@ -1,7 +1,0 @@
-[2022-02-22 03:14:44] [TestRunRegistrar.java] [1] [WARN] Reporting disabled: using no op test run registrar
-[2022-02-22 03:14:44] [IMessager.java] [1] [INFO] TEST [carina-phones-test - checkTest] STARTED at [15:14:44 2022-02-22]
-[2022-02-22 03:14:50] [CryptoTool.java] [1] [ERROR] Can't load secret key!
-[2022-02-22 03:14:50] [CryptoTool.java] [1] [ERROR] Can't load secret key!
-[2022-02-22 03:14:50] [IMessager.java] [24] [INFO] INFO: opening url 'https://www.onliner.by'
-[2022-02-22 03:14:54] [DriverListener.java] [24] [INFO] URL 'https://www.onliner.by' opened
-[2022-02-22 03:16:00] [Screenshot.java] [24] [WARN] Unable to capture screenshot during 66 sec!
