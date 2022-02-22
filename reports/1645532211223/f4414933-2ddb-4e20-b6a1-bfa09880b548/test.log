@@ -1,0 +1,52 @@
+[2022-02-22 03:16:52] [TestRunRegistrar.java] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-02-22 03:16:52] [IMessager.java] [1] [INFO] TEST [carina-phones-test - checkTest] STARTED at [15:16:52 2022-02-22]
+[2022-02-22 03:16:59] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:16:59] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:16:59] [IMessager.java] [24] [INFO] INFO: opening url 'https://www.onliner.by'
+[2022-02-22 03:17:02] [DriverListener.java] [24] [INFO] URL 'https://www.onliner.by' opened
+[2022-02-22 03:17:04] [DriverListener.java] [1] [INFO] PASS: element 'searchButton' is clicked.
+[2022-02-22 03:17:05] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:05] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:05] [DriverListener.java] [1] [INFO] PASS: keys cleared in element 'searchInput'.
+[2022-02-22 03:17:05] [DriverListener.java] [1] [INFO] PASS: keys 'samsung' are sent to element 'searchInput'.
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:06] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2022-02-22 03:17:08] [IMessager.java] [1] [INFO] TEST [carina-phones-test - checkTest] PASSED at [15:17:08 2022-02-22]

@@ -1,0 +1,4 @@
+com/solvd/carinaphonestest/page/desktop/DesktopHomePage.class
+com/solvd/carinaphonestest/page/android/AndroidHomePage.class
+com/solvd/carinaphonestest/service/HomePageService.class
+com/solvd/carinaphonestest/page/base/HomePageBase.class
